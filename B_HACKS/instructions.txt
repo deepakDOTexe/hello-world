@@ -1,0 +1,36 @@
+***********Before you use this Application**************
+
+1. Make sure that Modal Answers are saved in the folder named as MODAL_ANSWER(IMG) as a .jpg file .
+
+2. A good working internet connection is a must for working of the application.
+
+3. A google account with auto-login set in the default browser is also required.
+
+4. 
+
+***********How to use this Application***************
+
+1. There are 5 main functional buttons in the application.These are Instructions, Modal Answers, 
+Students' Answers,Evaluate and Results.
+
+2. The Instructions Button will open this text document in your default browser. It is highly recommended to 
+please go through the instruction manual completely and thoroughly.
+
+3. The Modal Answers Button will pop a window asking for number of questions for which modal answers are 
+saved by the user in the required directory as discussed in the pre-requisites above.
+
+4. After entering number of questions in the input box click on confirm and please wait for 5-6 minutes to 
+get things processed. The waiting time may increase in case of a slower internet connection.
+
+5. Similar is the case with Students' Answers Button, where a pop-up window will be created to enter the 
+number of students whose answer copies are to be checked.
+
+6. After clicking on confirm button, you will again need to wait for 5-6 minutes till a pop-up 
+confirmation is seen. The waiting time may increase in case of a slower internet connection.
+
+7. The Evaluate Button will give us machine generated scores after checking similarities
+between the Modal Answers and the Students' Answers.
+
+8. The Results Button will give you the statistical data of evaluations done till now.
+
+9. 
